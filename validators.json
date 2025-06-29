@@ -1,0 +1,2942 @@
+[
+  {
+    "validator_address": "celestiavaloper1q3v5cugc8cdpud87u4zwy0a74uxkk6u4q4gx4p",
+    "moniker": "P-OPS Team",
+    "account_address": "celestia1q3v5cugc8cdpud87u4zwy0a74uxkk6u4922lr8",
+    "voting_power_percent": "0.138",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1hvp2nfz3r6nqt8mlrzqf9ctwle942tkr23zxgj",
+    "moniker": "Qubelabs",
+    "account_address": "celestia1hvp2nfz3r6nqt8mlrzqf9ctwle942tkr0wql75",
+    "voting_power_percent": "0.127",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1jwzamm3ltkzce7ey5tn7uadt8uxg6k89a9tj94",
+    "moniker": "CUCK.",
+    "account_address": "celestia1jwzamm3ltkzce7ey5tn7uadt8uxg6k89c6ftnn",
+    "voting_power_percent": "0.124",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper157pdkj8nvuexdkgz9g338tmnfaz4u0eyghjzxg",
+    "moniker": "Veam",
+    "account_address": "celestia157pdkj8nvuexdkgz9g338tmnfaz4u0eydgsmsw",
+    "voting_power_percent": "0.097",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper17adsjkuecgjheugrdrwdqv9uh3qkrfmjqeqycq",
+    "moniker": "DAS-MOCHA",
+    "account_address": "celestia17adsjkuecgjheugrdrwdqv9uh3qkrfmj9xzawx",
+    "voting_power_percent": "0.093",
+    "status": "UNBONDING"
+  },
+  {
+    "validator_address": "celestiavaloper1d0ekarkyayuvqeruzmk6amv28s2c2muvhpkzrj",
+    "moniker": "validator-1",
+    "account_address": "celestia1d0ekarkyayuvqeruzmk6amv28s2c2muvj75m45",
+    "voting_power_percent": "0.058",
+    "status": "UNBONDING"
+  },
+  {
+    "validator_address": "celestiavaloper19urg9awjzwq8d40vwjdvv0yw9kgehscf0zx3gs",
+    "moniker": "Nodes.Guru",
+    "account_address": "celestia19urg9awjzwq8d40vwjdvv0yw9kgehscf2ayg7k",
+    "voting_power_percent": "0.055",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1u655tgul3su7s0u7kxyh6mdwcy5qn6xwl32s0d",
+    "moniker": "Brightlystake",
+    "account_address": "celestia1u655tgul3su7s0u7kxyh6mdwcy5qn6xw6wgfet",
+    "voting_power_percent": "0.054",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper109nzhf6fvqvfan3tayzc8cywcsk6a5q45lmk5s",
+    "moniker": "ChainodeTech",
+    "account_address": "celestia109nzhf6fvqvfan3tayzc8cywcsk6a5q43qe0zk",
+    "voting_power_percent": "0.049",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper13u434q3dnzq0hzl4knpxsgg65gd43aadr99u6d",
+    "moniker": "Stake\ud83e\udd91Squid",
+    "account_address": "celestia13u434q3dnzq0hzl4knpxsgg65gd43aadx689vt",
+    "voting_power_percent": "0.049",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14s0j44u98rpdnu8sejxykad6xm0px7kf054p6v",
+    "moniker": "MZONDER",
+    "account_address": "celestia14s0j44u98rpdnu8sejxykad6xm0px7kf2thcv2",
+    "voting_power_percent": "0.049",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper10jhckjxxymsufflglvypxscnmggetwh0dklfck",
+    "moniker": "NakoTurk",
+    "account_address": "celestia10jhckjxxymsufflglvypxscnmggetwh0gfasws",
+    "voting_power_percent": "0.048",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16yv2p64nzps0lqcealnumrsqc2rcszkd0uzlp8",
+    "moniker": "Cumulo",
+    "account_address": "celestia16yv2p64nzps0lqcealnumrsqc2rcszkd2rqxhp",
+    "voting_power_percent": "0.029",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14qekdkj2nmmwea4ufg9n002a3pud23y83hnzam",
+    "moniker": " Lavender.Five Nodes \ud83d\udc1d",
+    "account_address": "celestia14qekdkj2nmmwea4ufg9n002a3pud23y85g3mta",
+    "voting_power_percent": "0.022",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1jt9w26mpxxjsk63mvd4m2ynj0af09cslh5d096",
+    "moniker": "polkachu.com",
+    "account_address": "celestia1jt9w26mpxxjsk63mvd4m2ynj0af09csljt0knu",
+    "voting_power_percent": "0.022",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1x5ql6tevt940kv35tf0kazzqyzlcxm2k495xfa",
+    "moniker": "Astria",
+    "account_address": "celestia1x5ql6tevt940kv35tf0kazzqyzlcxm2ks6kllm",
+    "voting_power_percent": "0.021",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1gkvacjwejmgmql0up7ymu8gxlfucvu6u5zu937",
+    "moniker": "wavefive",
+    "account_address": "celestia1gkvacjwejmgmql0up7ymu8gxlfucvu6u3a7u8c",
+    "voting_power_percent": "0.010",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1amm0umxqxxw8j2q60x78xs32s089606sdmvx92",
+    "moniker": "Staking4All",
+    "account_address": "celestia1amm0umxqxxw8j2q60x78xs32s089606sgywlnv",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1davz40kat93t49ljrkmkl5uqhqq45e0tuj2s3m",
+    "moniker": "Alphabet",
+    "account_address": "celestia1davz40kat93t49ljrkmkl5uqhqq45e0tedgf8a",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper17vmk8m246t648hpmde2q7kp4ft9uwrayy09dmw",
+    "moniker": "Conqueror",
+    "account_address": "celestia17vmk8m246t648hpmde2q7kp4ft9uwrayps85dg",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1z4ekxw76wtwczexfnjx8p9vcnt2pj7p6jrvwr0",
+    "moniker": "F5 Nodes",
+    "account_address": "celestia1z4ekxw76wtwczexfnjx8p9vcnt2pj7p6huwh4f",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper12wtmpdzgssf0l03ajkvzxsqzlwfu2yn657e3dr",
+    "moniker": "01node",
+    "account_address": "celestia12wtmpdzgssf0l03ajkvzxsqzlwfu2yn63pmgm9",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1etx55kw7tkmnjqz0k0mups4ewxlr324tpqxxjd",
+    "moniker": "NodeStake",
+    "account_address": "celestia1etx55kw7tkmnjqz0k0mups4ewxlr324tylylyt",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper13y5d6t28kumgmsr6jhmtj0s8p08yqvel70gyyp",
+    "moniker": "kjnodes",
+    "account_address": "celestia13y5d6t28kumgmsr6jhmtj0s8p08yqvelms2aj8",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1x5wgh6vwye60wv3dtshs9dmqggwfx2ld84lsqy",
+    "moniker": "Cosmostation",
+    "account_address": "celestia1x5wgh6vwye60wv3dtshs9dmqggwfx2ldz2afkz",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xy46dfrhwneeqsyz6m7m6uh0tv3shq4zp5vpj8",
+    "moniker": "Imperator.co",
+    "account_address": "celestia1xy46dfrhwneeqsyz6m7m6uh0tv3shq4zytwcyp",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1vudj6qgcstlwt8esdfcj3ssj00enewhj3jhsr4",
+    "moniker": "staker-space",
+    "account_address": "celestia1vudj6qgcstlwt8esdfcj3ssj00enewhj5d4f4n",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1f5crra7r5m9kd6saw077u76x0n7dyjkkzk0qup",
+    "moniker": "ContributionDAO",
+    "account_address": "celestia1f5crra7r5m9kd6saw077u76x0n7dyjkk8fde28",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16rqus39n3e4868symf9ra9cpvlgtzyqth23gzy",
+    "moniker": "BlackBlocks",
+    "account_address": "celestia16rqus39n3e4868symf9ra9cpvlgtzyqtj4n35z",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1j7f2vwshnylrj3pklt30gesxywsuefkf622vf0",
+    "moniker": "Blockdaemon",
+    "account_address": "celestia1j7f2vwshnylrj3pklt30gesxywsuefkfl4g4lf",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1lfsagyl26mzc0wa9w0ujy6mhfefxylatz9ad3z",
+    "moniker": "Figment",
+    "account_address": "celestia1lfsagyl26mzc0wa9w0ujy6mhfefxylat86l58y",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1uf69uqke5cfmt4ga0c0cv7el9hvuj6xusn59r8",
+    "moniker": "Easy 2 Stake",
+    "account_address": "celestia1uf69uqke5cfmt4ga0c0cv7el9hvuj6xu4vku4p",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1fuswdqwzrpud04pa87q6slhh9u4pwtc3rzvhna",
+    "moniker": "TrustedPoint",
+    "account_address": "celestia1fuswdqwzrpud04pa87q6slhh9u4pwtc3xaww9m",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1kxqzvmsa62v2xpd4ryzthgqp9lxa7qhw7qeu4g",
+    "moniker": "Stakely.io",
+    "account_address": "celestia1kxqzvmsa62v2xpd4ryzthgqp9lxa7qhwmlm9rw",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1jwa2ests89vq89qrtztl60q2c8ygtj30wl2a7l",
+    "moniker": "B-Harvest",
+    "account_address": "celestia1jwa2ests89vq89qrtztl60q2c8ygtj30tqgyge",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14w4l6qvq5z5l2fkjl4ksfth8xtfraxa5ukudkl",
+    "moniker": "ZKV",
+    "account_address": "celestia14w4l6qvq5z5l2fkjl4ksfth8xtfraxa5ef75qe",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rflutk3euw8dcwaehxwugcm9pewkdn56xjlh26",
+    "moniker": "DSRV",
+    "account_address": "celestia1rflutk3euw8dcwaehxwugcm9pewkdn56rdawuu",
+    "voting_power_percent": "0.008",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xzry8a3ss08tpwmfrg4u827rqt9juw320d00lx",
+    "moniker": "4SV",
+    "account_address": "celestia1xzry8a3ss08tpwmfrg4u827rqt9juw322jdkfq",
+    "voting_power_percent": "0.006",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper178hyhspcvstv2gu55pqqd5pansgg9rj2z0r698",
+    "moniker": "pro-nodes75",
+    "account_address": "celestia178hyhspcvstv2gu55pqqd5pansgg9rj28sprnp",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xskun28mac3ea3k2fy8k0dxq3qlx7alwgy3aex",
+    "moniker": "Everstake",
+    "account_address": "celestia1xskun28mac3ea3k2fy8k0dxq3qlx7alwdmny0q",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1qyuwqj0cxe6hlzjru587nygwwmgh03ha9ve9ac",
+    "moniker": "node101",
+    "account_address": "celestia1qyuwqj0cxe6hlzjru587nygwwmgh03haqnmut7",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1zzxrq7tjlsqvv0jtqtlt8gjaa68racukf5n9xh",
+    "moniker": "[NODERS]",
+    "account_address": "celestia1zzxrq7tjlsqvv0jtqtlt8gjaa68racukvt3us3",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1lu29du5nnh9j7t0dg2td0jcmqnd8uy6kjnls76",
+    "moniker": "Validatrium",
+    "account_address": "celestia1lu29du5nnh9j7t0dg2td0jcmqnd8uy6khvafgu",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1u5pshtqpexjmuudrvq6q335qym2zggzhyp5ee8",
+    "moniker": "hipparcos",
+    "account_address": "celestia1u5pshtqpexjmuudrvq6q335qym2zggzhp7kq0p",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15e9k43hy3gd6d0z6u25evqq9yzpv5cyrx0gjz7",
+    "moniker": "Alchemy",
+    "account_address": "celestia15e9k43hy3gd6d0z6u25evqq9yzpv5cyrrs2t5c",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1dldc0kqzh0fw5gh8gf5q5lxl30yfesx2ek56mc",
+    "moniker": "P2P.org \ud83d\udc99",
+    "account_address": "celestia1dldc0kqzh0fw5gh8gf5q5lxl30yfesx2ufkrd7",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper123atq9d0fcxr0ll88dq37x5vqay9ywczesyc37",
+    "moniker": "Stake&Relax \ud83e\udda5",
+    "account_address": "celestia123atq9d0fcxr0ll88dq37x5vqay9ywczu0xp8c",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper10fz0ul7mr4e2zn3metpndd0gz5vxhw09y98kep",
+    "moniker": "0xFury",
+    "account_address": "celestia10fz0ul7mr4e2zn3metpndd0gz5vxhw09p69008",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1jw6qaahxd4qw26aelfmrdpxxrnarfjnaruc5g2",
+    "moniker": "Enigma",
+    "account_address": "celestia1jw6qaahxd4qw26aelfmrdpxxrnarfjnaxr6d7v",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1vaxz9hyn8sq5vk3jgdhkge8xefuhz6xtnvy44x",
+    "moniker": "KingSuper",
+    "account_address": "celestia1vaxz9hyn8sq5vk3jgdhkge8xefuhz6xtknxvrq",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1c7e2pt8j78rnjps59zuvmmzswxe5uvl2k98ey3",
+    "moniker": "Anonstake",
+    "account_address": "celestia1c7e2pt8j78rnjps59zuvmmzswxe5uvl2n69qjh",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1wf5az63pmykhnevyjcja68wdgs7h8y4w565lha",
+    "moniker": "Stakin",
+    "account_address": "celestia1wf5az63pmykhnevyjcja68wdgs7h8y4w39kxpm",
+    "voting_power_percent": "0.002",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper19zl80606wn6hj575r20wxyeku7tet9p34ufpns",
+    "moniker": "Stakecito",
+    "account_address": "celestia19zl80606wn6hj575r20wxyeku7tet9p3srtc9k",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ycl37qwq223xtl94c4hgqkjlfpz35kf7z38uhk",
+    "moniker": "bitszn",
+    "account_address": "celestia1ycl37qwq223xtl94c4hgqkjlfpz35kf78w99ps",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1yacd4f8h7m8fpuv56hzfs4qds7c46vjw75s7yz",
+    "moniker": "CosmoWiz",
+    "account_address": "celestia1yacd4f8h7m8fpuv56hzfs4qds7c46vjwmtj8jy",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1n94ezezjz99knnpla7a6p8xftnlr23zacsaxht",
+    "moniker": "itrocket",
+    "account_address": "celestia1n94ezezjz99knnpla7a6p8xftnlr23zaa0llpd",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1hms5em9e45dmcu723vflp74azhml0s8ga4m785",
+    "moniker": "Chocadeva-latte-mador",
+    "account_address": "celestia1hms5em9e45dmcu723vflp74azhml0s8gc2e83j",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15vjc78zwgp75064xez7s06ufemvrgz53kkhjne",
+    "moniker": "openbitlab",
+    "account_address": "celestia15vjc78zwgp75064xez7s06ufemvrgz53nf4t9l",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xle5xcnxxftlqwa4f5upc5n0kxwj6jrm4q6r0r",
+    "moniker": "Stakeflow",
+    "account_address": "celestia1xle5xcnxxftlqwa4f5upc5n0kxwj6jrmslc6e9",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper12taarjpf6pyjane0gt00q5p9dkehp3n8lu5922",
+    "moniker": "Smart Stake \ud83d\udcc8\ud83d\udcca",
+    "account_address": "celestia12taarjpf6pyjane0gt00q5p9dkehp3n86rkuuv",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1vhsnjlwmcay566uqy4nl4x3zkxs7vdscwyk6cd",
+    "moniker": "Architect Nodes",
+    "account_address": "celestia1vhsnjlwmcay566uqy4nl4x3zkxs7vdsctm5rwt",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper17npzzz34lvqgw8qjuu3z8wc37yr7q09n76pa7d",
+    "moniker": "w3.labs",
+    "account_address": "celestia17npzzz34lvqgw8qjuu3z8wc37yr7q09nm9rygt",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xj2k5jv76nm6gqcc0v43mynryh0ads55vzdynw",
+    "moniker": " AutoStake \ud83d\udee1\ufe0f Slash Protected",
+    "account_address": "celestia1xj2k5jv76nm6gqcc0v43mynryh0ads55fa0a9g",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16w6vr4neaxtk779edzz23e0v6z66fgrt7y8wt0",
+    "moniker": "Avril14th",
+    "account_address": "celestia16w6vr4neaxtk779edzz23e0v6z66fgrtmm9haf",
+    "voting_power_percent": "0.001",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1tg7wc9dm40mxl0sxcxvkfq8sekmh56qp7jk3ca",
+    "moniker": "w3.archived",
+    "account_address": "celestia1tg7wc9dm40mxl0sxcxvkfq8sekmh56qpmd5gwm",
+    "voting_power_percent": "0.001",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1n6n2s4drjnyj9xjrd5586n9fdyzjlfhjf8mthm",
+    "moniker": "deNodes",
+    "account_address": "celestia1n6n2s4drjnyj9xjrd5586n9fdyzjlfhjvcejpa",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1hu2z5e5e45rf2wux7l2w9ljyxpkmc9kjl9venp",
+    "moniker": "AiNodes",
+    "account_address": "celestia1hu2z5e5e45rf2wux7l2w9ljyxpkmc9kj66wq98",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1sa5mgyskjzpx6znnd6jxkn59g02hm6c4p8a59v",
+    "moniker": "POSTHUMAN",
+    "account_address": "celestia1sa5mgyskjzpx6znnd6jxkn59g02hm6c4ycldn2",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1gakqs6d9r042ljjmrexg793sgeac5xjkcmvrmt",
+    "moniker": "StakeUs",
+    "account_address": "celestia1gakqs6d9r042ljjmrexg793sgeac5xjkayw6dd",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1x805rz0syzgause27r2a8cwx34jux4j7hpapr0",
+    "moniker": "LiveRaveN",
+    "account_address": "celestia1x805rz0syzgause27r2a8cwx34jux4j7j7lc4f",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1v5nu3ec5qg7852v0gknpwfe9dk64gf5rqfsylh",
+    "moniker": "Endorphine Stake",
+    "account_address": "celestia1v5nu3ec5qg7852v0gknpwfe9dk64gf5r9kjaf3",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1lee46trhztmlepu69m49fhtdd644qetm2sxxyc",
+    "moniker": "21state",
+    "account_address": "celestia1lee46trhztmlepu69m49fhtdd644qetm00ylj7",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1gevn5l4fp207ck72waqrtt6crufug04wkerjpm",
+    "moniker": "Node.Monster",
+    "account_address": "celestia1gevn5l4fp207ck72waqrtt6crufug04wnxptha",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper10japprdfrs90n8lgyg7zu0d4denlu24h8kmwnl",
+    "moniker": "OriginStake",
+    "account_address": "celestia10japprdfrs90n8lgyg7zu0d4denlu24hzfeh9e",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper139y2ujypdhq76r3gt9utz948lwwy64ez6psc2w",
+    "moniker": "ValiDAO",
+    "account_address": "celestia139y2ujypdhq76r3gt9utz948lwwy64ezl7jpug",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1pj7pvhced7snpvyjkacle74fdmhdwlqdwexalk",
+    "moniker": "StakeTown",
+    "account_address": "celestia1pj7pvhced7snpvyjkacle74fdmhdwlqdtxyyfs",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper19jye76anuq7qtrh45ussdzfp80l39a498ch532",
+    "moniker": "cryptech",
+    "account_address": "celestia19jye76anuq7qtrh45ussdzfp80l39a49z84d8v",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1y9w85qjghdtc2hrl2v7vsu3ulalyc27e93umjx",
+    "moniker": "DTEAM",
+    "account_address": "celestia1y9w85qjghdtc2hrl2v7vsu3ulalyc27eqw7zyq",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1zf7t8ahyt75vt0pctula20vs76ml6yprf5dm0c",
+    "moniker": "Nodes Hub \ud83d\udee1\ufe0f 100% Slash Protected \ud83d\udee1\ufe0f",
+    "account_address": "celestia1zf7t8ahyt75vt0pctula20vs76ml6yprvt0ze7",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper17tgxdrlxm98svz8r25vjg595cdxvaxw8v7rfsk",
+    "moniker": "\ud83d\udd25STAVR\ud83d\udd25",
+    "account_address": "celestia17tgxdrlxm98svz8r25vjg595cdxvaxw8fppsxs",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1tv4x3r4uws5v39wdzx20s23m878yv5482s2vex",
+    "moniker": " Silk Nodes",
+    "account_address": "celestia1tv4x3r4uws5v39wdzx20s23m878yv54800g40q",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1f60z8w8ueq3uc6c2ttxq60sx5cd5u79dr7aclm",
+    "moniker": "Cosmic Validator",
+    "account_address": "celestia1f60z8w8ueq3uc6c2ttxq60sx5cd5u79dxplpfa",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper13dgdk7ehefk9lwl0ne67ufspfwh35mylyncky4",
+    "moniker": "blockscape",
+    "account_address": "celestia13dgdk7ehefk9lwl0ne67ufspfwh35mylpv60jn",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xz9tr2wts7c68f2g860zqqxdg7wvzdepxr4c97",
+    "moniker": "NacionCrypto - Parceros",
+    "account_address": "celestia1xz9tr2wts7c68f2g860zqqxdg7wvzdepruhpnc",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper10scxckq408s28t0x0p7kq7u5ru0kvd8ltskrlh",
+    "moniker": "SegaStakers",
+    "account_address": "celestia10scxckq408s28t0x0p7kq7u5ru0kvd8lw056f3",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1y8864qtwrz838lgrq4a0uy5zcjfu9h32z2mu96",
+    "moniker": "Krews",
+    "account_address": "celestia1y8864qtwrz838lgrq4a0uy5zcjfu9h3284e9nu",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1jemvzt6xcyw3rhyh4w5z9rgnj2ajw8vhl4ht8e",
+    "moniker": "R1M",
+    "account_address": "celestia1jemvzt6xcyw3rhyh4w5z9rgnj2ajw8vh624j3l",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ru0flq67247kepnppnax56lh0t7guj3gzd8d4f",
+    "moniker": "BonyNode\ud83d\udc9a",
+    "account_address": "celestia1ru0flq67247kepnppnax56lh0t7guj3g8j95r0",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1tzm9dn55x0tftayj4slprhdp3s2ma4pn5gcttw",
+    "moniker": "BlackNodes",
+    "account_address": "celestia1tzm9dn55x0tftayj4slprhdp3s2ma4pn3h6jag",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1j6mjapwrznvgqkl9u9m4660se7vwufc6ct7lp6",
+    "moniker": "KYVE Public Good Funding",
+    "account_address": "celestia1j6mjapwrznvgqkl9u9m4660se7vwufc6a5uxhu",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14fr0slyjutp7kndpqz4puj97f8rmy4fxed63fv",
+    "moniker": "Tecnodes",
+    "account_address": "celestia14fr0slyjutp7kndpqz4puj97f8rmy4fxujcgl2",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14q4uvyr0pxuqv4hnwc44p2adk5qn36davd8sjv",
+    "moniker": "Firstset",
+    "account_address": "celestia14q4uvyr0pxuqv4hnwc44p2adk5qn36dafj9fy2",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1nlw207xdr3endmu5xjdh6dszcj04wx99u4euey",
+    "moniker": "VALIDEXIS",
+    "account_address": "celestia1nlw207xdr3endmu5xjdh6dszcj04wx99e2m90z",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1u8hvyz3wqe3rm4zk9zw6upsn2f3nk8k39z5670",
+    "moniker": "Decentrio",
+    "account_address": "celestia1u8hvyz3wqe3rm4zk9zw6upsn2f3nk8k3qakrgf",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ntdvcng5r3kfju0zku0ev457p0lawsgn9qrgq7",
+    "moniker": "silent",
+    "account_address": "celestia1ntdvcng5r3kfju0zku0ev457p0lawsgnqlp3kc",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper10zfv3h4dcyg62j6tkfwhwh6uavn8tprgfmcfm7",
+    "moniker": "Kleomedes",
+    "account_address": "celestia10zfv3h4dcyg62j6tkfwhwh6uavn8tprgvy6sdc",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1he0lw3yh60gt72cplyddtm7d9y56qk7ru2auz0",
+    "moniker": "GalaxyDigital",
+    "account_address": "celestia1he0lw3yh60gt72cplyddtm7d9y56qk7re4l95f",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1t6zdgfksv7hfy32f45vgy0876qwz9cnwjz5guq",
+    "moniker": "chainlabo-mocha-01",
+    "account_address": "celestia1t6zdgfksv7hfy32f45vgy0876qwz9cnwhak32x",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1felygft8pzy7vn7p6wxxnuzf8yk0vj6calywtt",
+    "moniker": "AtlasNodes",
+    "account_address": "celestia1felygft8pzy7vn7p6wxxnuzf8yk0vj6ccqxhad",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1m0a6ss7lp3sk2p5wc2x3fklf4j0lucxy4p9gmc",
+    "moniker": "Clorophilla",
+    "account_address": "celestia1m0a6ss7lp3sk2p5wc2x3fklf4j0lucxys783d7",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rt3kszg8j66yj5dkw2zd05yuzrqura430espj3",
+    "moniker": "LithiumDigital",
+    "account_address": "celestia1rt3kszg8j66yj5dkw2zd05yuzrqura432xjcyh",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1r326n9uxxpup36lma0ltwyq9pf2xvaam252k73",
+    "moniker": "quantumcore",
+    "account_address": "celestia1r326n9uxxpup36lma0ltwyq9pf2xvaam0tg0gh",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15uvz03cj8lqfctdxmtdrk9wpwpdwdwgclvhnfh",
+    "moniker": "Neoprom",
+    "account_address": "celestia15uvz03cj8lqfctdxmtdrk9wpwpdwdwgc6n42l3",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14kfq5n6q5xc7jvafwuz95ru2pl8esu6tr3lelv",
+    "moniker": "Cosmos Spaces",
+    "account_address": "celestia14kfq5n6q5xc7jvafwuz95ru2pl8esu6txwaqf2",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1y334l6k643az3hrt96wywh5azqscl8kn7azlxp",
+    "moniker": "SenseiNode",
+    "account_address": "celestia1y334l6k643az3hrt96wywh5azqscl8knmzqxs8",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1235757gy8y4pkq5rqhjc8fp49me785fqerkffs",
+    "moniker": "XPRV",
+    "account_address": "celestia1235757gy8y4pkq5rqhjc8fp49me785fquu5slk",
+    "voting_power_percent": "0.000",
+    "status": "BONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ufy9r82jzmyuk3n9ejlwgwvsxf20vcehx3ygfy",
+    "moniker": "Gunter",
+    "account_address": "celestia1ufy9r82jzmyuk3n9ejlwgwvsxf20vcehrwx3lz",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1pxjmcrr063k7f5l5ualxetp5w5qe3sdha8ee4n",
+    "moniker": "Test-node-hor",
+    "account_address": "celestia1pxjmcrr063k7f5l5ualxetp5w5qe3sdhccmqr4",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1yg6057eah240sxdrjzt8dl4emg2zvrvm4hldup",
+    "moniker": "moonli.me",
+    "account_address": "celestia1yg6057eah240sxdrjzt8dl4emg2zvrvmsga528",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1q4dum94p9xcp4kg4xcdphr3f69uycw7szxppl7",
+    "moniker": "counterpoint",
+    "account_address": "celestia1q4dum94p9xcp4kg4xcdphr3f69uycw7s8ercfc",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1y74pta7gfyapvflad9z0xzjd98g9csz0k4z7a7",
+    "moniker": "Validatus",
+    "account_address": "celestia1y74pta7gfyapvflad9z0xzjd98g9csz0n2q8tc",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDING"
+  },
+  {
+    "validator_address": "celestiavaloper1vg42wj8lce8ekgvu7ha8xvljr2tcthx3jm92c0",
+    "moniker": "Spectrum Staking",
+    "account_address": "celestia1vg42wj8lce8ekgvu7ha8xvljr2tcthx3hy8nwf",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1l2r0vxugpspk6zehtlv0y9gw9x2d7spfd5glp7",
+    "moniker": "kooltek68",
+    "account_address": "celestia1l2r0vxugpspk6zehtlv0y9gw9x2d7spfgt2xhc",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1nwxr6et6achzylyc7620m4w4uhjvenfx0faus3",
+    "moniker": "Catuai",
+    "account_address": "celestia1nwxr6et6achzylyc7620m4w4uhjvenfx2kl9xh",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDING"
+  },
+  {
+    "validator_address": "celestiavaloper1qycj0ymu9fqvwgyw4xz93p3n4a83jjk7sm2wzh",
+    "moniker": "AVIAONE \ud83d\udfe2",
+    "account_address": "celestia1qycj0ymu9fqvwgyw4xz93p3n4a83jjk74ygh53",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1arnj5ntvlcdjvswq23fvqpsazakhp9rf03zcj4",
+    "moniker": "DxN",
+    "account_address": "celestia1arnj5ntvlcdjvswq23fvqpsazakhp9rf2wqpyn",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper162rcfau3ff29lh6juahlrp6xx5wh4xvhr5rx8s",
+    "moniker": "Blockpower Capital",
+    "account_address": "celestia162rcfau3ff29lh6juahlrp6xx5wh4xvhxtpl3k",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper17sjwxu6vhzwvgn4vz36r83c7rpuepawd64tpz7",
+    "moniker": "Haruka",
+    "account_address": "celestia17sjwxu6vhzwvgn4vz36r83c7rpuepawdl2fc5c",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1lnuk94k5fctaaspusgtn9znmqh4v48pq3rf5ns",
+    "moniker": "Goose-Testnet",
+    "account_address": "celestia1lnuk94k5fctaaspusgtn9znmqh4v48pq5utd9k",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDING"
+  },
+  {
+    "validator_address": "celestiavaloper1vfvwqnzfh7e8gp08ny959ldg566ma2888wgcfl",
+    "moniker": "IYKYK",
+    "account_address": "celestia1vfvwqnzfh7e8gp08ny959ldg566ma288z32ple",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper170qq26qenw420ufd5py0r59kpg3tj2m7dqkpym",
+    "moniker": "ANCLO",
+    "account_address": "celestia170qq26qenw420ufd5py0r59kpg3tj2m7gl5cja",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1cpw2y3p7v03wvdzq2wuwg662aljwlrwhy08mkt",
+    "moniker": "BITGO",
+    "account_address": "celestia1cpw2y3p7v03wvdzq2wuwg662aljwlrwhps9zqd",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDING"
+  },
+  {
+    "validator_address": "celestiavaloper1ukk0l6ce58zq3snad5vn24vy7pdk9r8hva6nz9",
+    "moniker": "hextrust",
+    "account_address": "celestia1ukk0l6ce58zq3snad5vn24vy7pdk9r8hfzc25r",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14v4ush42xewyeuuldf6jtdz0a7pxg5fwrlumwf",
+    "moniker": "LatamNodes",
+    "account_address": "celestia14v4ush42xewyeuuldf6jtdz0a7pxg5fwxq7zc0",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1aduhl8zvfu0d8tsnjpj8a3h72h6dqr3prhp67f",
+    "moniker": "Tane",
+    "account_address": "celestia1aduhl8zvfu0d8tsnjpj8a3h72h6dqr3pxgrrg0",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1wec87aa29nzdzws5qd67m5afs58gzxdp0ct4hq",
+    "moniker": "Md_Validate",
+    "account_address": "celestia1wec87aa29nzdzws5qd67m5afs58gzxdp28fvpx",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1kazj4pmkpwxm8kvvqe38tyzlg7mgmeqt5smk0j",
+    "moniker": "horcrux_test_sen",
+    "account_address": "celestia1kazj4pmkpwxm8kvvqe38tyzlg7mgmeqt30e0e5",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1v7f7em6u6gg89zmkxzwdrhlvu3uw6sw32m8dxs",
+    "moniker": "fible13",
+    "account_address": "celestia1v7f7em6u6gg89zmkxzwdrhlvu3uw6sw30y95sk",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper196d5keusp9k5gjss8h7xyvjtdcl43gq53ya67j",
+    "moniker": "WellNode \ud83e\udd81",
+    "account_address": "celestia196d5keusp9k5gjss8h7xyvjtdcl43gq55mlrg5",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1t0289w0eq70h24dvp84g46awpzutdj65ltqa09",
+    "moniker": "JeTrix",
+    "account_address": "celestia1t0289w0eq70h24dvp84g46awpzutdj6565zyer",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15tauxkv5dvkvca9nh30n9mzfugr2vyzy08qje3",
+    "moniker": "myrtl",
+    "account_address": "celestia15tauxkv5dvkvca9nh30n9mzfugr2vyzy2czt0h",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ad3p8383vwz33jezkr99kj2dlxa4erwexev2ka",
+    "moniker": "Donald",
+    "account_address": "celestia1ad3p8383vwz33jezkr99kj2dlxa4erwerxwnqm",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1hu24jt4h5a62s3durjrclu0hn32pafajtq9j4u",
+    "moniker": "YUTK",
+    "account_address": "celestia1hu24jt4h5a62s3durjrclu0hn32pafajwl8tr6",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16kzqyl6rf8ph385v60u3r8sjgj5w9enq6znf6l",
+    "moniker": "LuckyResearch",
+    "account_address": "celestia16kzqyl6rf8ph385v60u3r8sjgj5w9enqla3sve",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1lpau2hsr40pk6k9luw8mjknq4luv7jc82hw8uf",
+    "moniker": "Closing - Redelegate",
+    "account_address": "celestia1lpau2hsr40pk6k9luw8mjknq4luv7jc80gv720",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1mykj0rhuwacmj9cxu859wacjzlz2x3yjfajjju",
+    "moniker": "BlockHunters \ud83c\udfaf",
+    "account_address": "celestia1mykj0rhuwacmj9cxu859wacjzlz2x3yjvzsty6",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper17ztgt942apml4jvrpqtttag4te9w64c3y69c9f",
+    "moniker": "twinstake",
+    "account_address": "celestia17ztgt942apml4jvrpqtttag4te9w64c3p98pn0",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1wnkcqj96druk40wcq5872u00dwy2vsldj34cg4",
+    "moniker": "Earth+",
+    "account_address": "celestia1wnkcqj96druk40wcq5872u00dwy2vsldhwhp7n",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rmujezxgnw66qspymy7pgxx0e2j49j97vxu39z",
+    "moniker": "RozaS",
+    "account_address": "celestia1rmujezxgnw66qspymy7pgxx0e2j49j97fe7gny",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper10qhvae5p9uggvtj0n7maaqy6luwqxdhhtza50d",
+    "moniker": "Huginn",
+    "account_address": "celestia10qhvae5p9uggvtj0n7maaqy6luwqxdhhwaldet",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1et0ysx7634d3kyndguje465xcg4cxwrye7u7rr",
+    "moniker": "Chainroot",
+    "account_address": "celestia1et0ysx7634d3kyndguje465xcg4cxwryup7849",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1suw8uurwgtyr0nl0tdkp4kcxhpamrh5exczp98",
+    "moniker": "moar-data",
+    "account_address": "celestia1suw8uurwgtyr0nl0tdkp4kcxhpamrh5er8qcnp",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1p66yrw6ejw9ypacvu4cmu45m7vlx27e6wqy6am",
+    "moniker": "bitsturbine",
+    "account_address": "celestia1p66yrw6ejw9ypacvu4cmu45m7vlx27e6tlxrta",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper159aprf7gl0u8vqkle6jwkkthkm2vxz9nxzmr2d",
+    "moniker": "MAHOF",
+    "account_address": "celestia159aprf7gl0u8vqkle6jwkkthkm2vxz9nrae6ut",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1v5a42npqehg8r9fhjxaxp8adarty9melnsj9z7",
+    "moniker": "UbikCapital",
+    "account_address": "celestia1v5a42npqehg8r9fhjxaxp8adarty9melk0su5c",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper122hjdwqvq8nt72akfvs2c4ty36ja5derxvp4c2",
+    "moniker": "spirit-saint",
+    "account_address": "celestia122hjdwqvq8nt72akfvs2c4ty36ja5derrnrvwv",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1592tz3g8qmyjhyn7nwrh5y4zj5lf7zf8d0rtut",
+    "moniker": "CroutonDigital",
+    "account_address": "celestia1592tz3g8qmyjhyn7nwrh5y4zj5lf7zf8gspj2d",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1qjshyuh77s7sz0l5kq4ft22pm0686qf36sx4cy",
+    "moniker": "spidey",
+    "account_address": "celestia1qjshyuh77s7sz0l5kq4ft22pm0686qf3l0yvwz",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1v8ltxjuy704m796cnc35zykqzfuwcyz8dnr9pj",
+    "moniker": "crosnest",
+    "account_address": "celestia1v8ltxjuy704m796cnc35zykqzfuwcyz8gvpuh5",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1v0ywcdqj4cllvmy675g7zd4348u44e09a6n8td",
+    "moniker": "Forbole",
+    "account_address": "celestia1v0ywcdqj4cllvmy675g7zd4348u44e09c937at",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1qt7tfh9ye2yhc5jr5lx6su752zfjxv4jtunxsp",
+    "moniker": "AM Solutions \ud83e\ude90",
+    "account_address": "celestia1qt7tfh9ye2yhc5jr5lx6su752zfjxv4jwr3lx8",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xl003xjhah06qnsrseqvrz5gkxp96nflzzmedp",
+    "moniker": "Benni",
+    "account_address": "celestia1xl003xjhah06qnsrseqvrz5gkxp96nfl8aeqm8",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1223krxxz3xkw07zksvguqwu804vwx360uch6sa",
+    "moniker": "C",
+    "account_address": "celestia1223krxxz3xkw07zksvguqwu804vwx360e84rxm",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper12hqhhvvedsyh57qt7wcyf4cj9yxddjtl8tvm7u",
+    "moniker": "GPvalidator",
+    "account_address": "celestia12hqhhvvedsyh57qt7wcyf4cj9yxddjtlz5wzg6",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1wnrvkxpzsxcf35tnr72rf97pazdgwcqert8t7t",
+    "moniker": "SilverSURF",
+    "account_address": "celestia1wnrvkxpzsxcf35tnr72rf97pazdgwcqex59jgd",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1cyhkmeya2hdq0yw6amqr7drjwz5lwrpna8sjv3",
+    "moniker": "Jav1xRisen",
+    "account_address": "celestia1cyhkmeya2hdq0yw6amqr7drjwz5lwrpnccjt6h",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper188ft08px5hryqxe5hawav4q6jugsnj6usny3la",
+    "moniker": "Zhrand",
+    "account_address": "celestia188ft08px5hryqxe5hawav4q6jugsnj6u4vxgfm",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1a4mz9j3p6qva8a4c5mz2ljk8ww7jwemkp3252t",
+    "moniker": "Rumbanoid",
+    "account_address": "celestia1a4mz9j3p6qva8a4c5mz2ljk8ww7jwemkywgdud",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xaq3d2j7279m3w632f92r0x7awtt609gn6u7eq",
+    "moniker": "test3",
+    "account_address": "celestia1xaq3d2j7279m3w632f92r0x7awtt609gk9780x",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1nd7zezsc06z8rp6c2dycrcjh9egxavzur92cr5",
+    "moniker": "Crypto_Universe",
+    "account_address": "celestia1nd7zezsc06z8rp6c2dycrcjh9egxavzux6gp4j",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper128s33ylwp2h5wvfaxze58n8msf5kfgm6g7aftd",
+    "moniker": "Nodiums",
+    "account_address": "celestia128s33ylwp2h5wvfaxze58n8msf5kfgm6dplsat",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1e5knpjkwuz7s63pf5h99q2zlxn2ml4jrz37lwe",
+    "moniker": "Iso_dayI",
+    "account_address": "celestia1e5knpjkwuz7s63pf5h99q2zlxn2ml4jr8wuxcl",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14q874ngs8ftes9nyrr5vyp3h5udq89tw93lvjy",
+    "moniker": "bg-1",
+    "account_address": "celestia14q874ngs8ftes9nyrr5vyp3h5udq89twqwa4yz",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1q422p5m0gej7gp43385thsfpmjuwql72vy0dar",
+    "moniker": "A41",
+    "account_address": "celestia1q422p5m0gej7gp43385thsfpmjuwql72fmd5t9",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1awmke0zrufvl42kmmlnuxxqq6avg8397m22v4u",
+    "moniker": "Rysiman",
+    "account_address": "celestia1awmke0zrufvl42kmmlnuxxqq6avg839774g4r6",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1x350ecfz9sajmg9pf8r8fsqxemv0m9hcvhlkj9",
+    "moniker": "BloClick",
+    "account_address": "celestia1x350ecfz9sajmg9pf8r8fsqxemv0m9hcfga0yr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1wkwadcdmjktkyry3ksfh0thu8w5206yk9t8e0y",
+    "moniker": "UniqLabs",
+    "account_address": "celestia1wkwadcdmjktkyry3ksfh0thu8w5206ykq59qez",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1uqv5x92f0kqsd3nt93msqvwgpea6gwu3erm5pm",
+    "moniker": "Stake.Works",
+    "account_address": "celestia1uqv5x92f0kqsd3nt93msqvwgpea6gwu3uuedha",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1h3vwghgu07khdqu2xa7hamg5my7xuw57vanzml",
+    "moniker": "KubikStaking",
+    "account_address": "celestia1h3vwghgu07khdqu2xa7hamg5my7xuw57fz3mde",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper19c7q07pwh2l4wcew7765jau9jedlhaptqpn094",
+    "moniker": "gunslingertrades",
+    "account_address": "celestia19c7q07pwh2l4wcew7765jau9jedlhapt973knn",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper104tmm72hye422h2tc3utxfqu5hkxefwwplqxut",
+    "moniker": "Coinbase Cloud 1",
+    "account_address": "celestia104tmm72hye422h2tc3utxfqu5hkxefwwyqzl2d",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xy4tgqxlzz3ljay52xsau7ks3j0pqsx9tktdqe",
+    "moniker": "KalpaTech",
+    "account_address": "celestia1xy4tgqxlzz3ljay52xsau7ks3j0pqsx9wff5kl",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1a3g6pwvq82dkdyddxw5xdufqhv4s83gn6lgxmd",
+    "moniker": "node-spinter",
+    "account_address": "celestia1a3g6pwvq82dkdyddxw5xdufqhv4s83gnlq2ldt",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper144ywxstnfsjd234pztt8dl0fal5uwh4u5mgmwh",
+    "moniker": "Geodd",
+    "account_address": "celestia144ywxstnfsjd234pztt8dl0fal5uwh4u3y2zc3",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1qq9dduljfua3uztkvgh6ytcahpzxs5qvkq97l3",
+    "moniker": "Simply Staking",
+    "account_address": "celestia1qq9dduljfua3uztkvgh6ytcahpzxs5qvnl88fh",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1pgprq60z9tfewajcxsg8t9gn98at08a4jw6qtq",
+    "moniker": "Active Nodes",
+    "account_address": "celestia1pgprq60z9tfewajcxsg8t9gn98at08a4h3ceax",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper107pdw6ysyg0fvfp4cj2gcel0wdpr4ddd7cjj05",
+    "moniker": "Coinbase Cloud 2",
+    "account_address": "celestia107pdw6ysyg0fvfp4cj2gcel0wdpr4dddm8stej",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1raq2ckt0dcm6d7x077tfz9gtdqzmna8gv77hgg",
+    "moniker": "kpool",
+    "account_address": "celestia1raq2ckt0dcm6d7x077tfz9gtdqzmna8gfpuw7w",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper103zspzt9cz93kuf9m64z46rz7sk0qhmlexkzxv",
+    "moniker": "blobstream-test",
+    "account_address": "celestia103zspzt9cz93kuf9m64z46rz7sk0qhmlue5ms2",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper10y3j6mgwcv7ewj7aze56tl7znda8jg2p0e5fj6",
+    "moniker": "eudaimonia",
+    "account_address": "celestia10y3j6mgwcv7ewj7aze56tl7znda8jg2p2xksyu",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1j3pzhu2400f4ntv6kznlvramxv62w2d2sydg7x",
+    "moniker": "viennguyen",
+    "account_address": "celestia1j3pzhu2400f4ntv6kznlvramxv62w2d24m03gq",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1vvuv3n7qj4nlqnwtqsgrvlrhqe2dqxd6ygt666",
+    "moniker": "TendermintHub",
+    "account_address": "celestia1vvuv3n7qj4nlqnwtqsgrvlrhqe2dqxd6phfrvu",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1chpjczzkpztcxq4yacg8nj8hlqydutkz3e4up4",
+    "moniker": "5ElementsNodes",
+    "account_address": "celestia1chpjczzkpztcxq4yacg8nj8hlqydutkz5xh9hn",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1h7qxhhde70fx2sk5yz5h48u2w3hk5mrwt57q32",
+    "moniker": "MadMax",
+    "account_address": "celestia1h7qxhhde70fx2sk5yz5h48u2w3hk5mrwwtue8v",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper168p6ltjfvugnyny7npdeetczgtwz5y5js3s3de",
+    "moniker": "StakePool",
+    "account_address": "celestia168p6ltjfvugnyny7npdeetczgtwz5y5j4wjgml",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1k2hq22vuqy7jccxh3ynadrql9zurmlgczp2vrp",
+    "moniker": "luciolaKami",
+    "account_address": "celestia1k2hq22vuqy7jccxh3ynadrql9zurmlgc87g448",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rmrxqsh0wz2dsem43vnqy68hvun7zhrvd5vf88",
+    "moniker": "MONADA",
+    "account_address": "celestia1rmrxqsh0wz2dsem43vnqy68hvun7zhrvgtws3p",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14f6995qz66vlat5742m6dsz5yzwcurmgmt3c2s",
+    "moniker": "vincentgonzalezino",
+    "account_address": "celestia14f6995qz66vlat5742m6dsz5yzwcurmg75npuk",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xesqr8vjvy34jhu027zd70ypl0nnev5ejgmszq",
+    "moniker": "Synergy Nodes",
+    "account_address": "celestia1xesqr8vjvy34jhu027zd70ypl0nnev5ehhef5x",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1e3uwu6wj46ej84r85k4f0z6fxry0ste7lgantl",
+    "moniker": "node stopped - please redelegate",
+    "account_address": "celestia1e3uwu6wj46ej84r85k4f0z6fxry0ste76hl2ae",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ffyqk22mvyukgvkyrh82x0d3vxd6adjq4p2suz",
+    "moniker": "Kube",
+    "account_address": "celestia1ffyqk22mvyukgvkyrh82x0d3vxd6adjqs7gf2y",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper12c6cwd0kqlg48sdhjnn9f0z82g0c82fmrl7j9y",
+    "moniker": "0base.vc",
+    "account_address": "celestia12c6cwd0kqlg48sdhjnn9f0z82g0c82fmxqutnz",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1q8vl83rpgatuju59lak497234j0erzxf8zkv05",
+    "moniker": "Baza",
+    "account_address": "celestia1q8vl83rpgatuju59lak497234j0erzxfza54ej",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1lmz5eyff0v40pk4p702g733jjvany7j9a32xu2",
+    "moniker": "doom",
+    "account_address": "celestia1lmz5eyff0v40pk4p702g733jjvany7j9cwgl2v",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1aq9ws7fytrprlh5h6zpvdfelxcgjmdmly9kz7l",
+    "moniker": "ritamorenono",
+    "account_address": "celestia1aq9ws7fytrprlh5h6zpvdfelxcgjmdmlp65mge",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14m0n559xdj00qwvp6ck0xesprrq26kgpypapca",
+    "moniker": "Oneiric Stake",
+    "account_address": "celestia14m0n559xdj00qwvp6ck0xesprrq26kgpp7lcwm",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1my99pndu4jeex2vmnrk2ej5j4rhl43w4qancc0",
+    "moniker": "Provalidator",
+    "account_address": "celestia1my99pndu4jeex2vmnrk2ej5j4rhl43w49z3pwf",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1a47arwddeq7cyy3ucyensn43tq2m72rlxdz3uq",
+    "moniker": "Elektra",
+    "account_address": "celestia1a47arwddeq7cyy3ucyensn43tq2m72rlrjqg2x",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper12dp3z5c8e47869ktxxggrkjzh67zl2w8rks96g",
+    "moniker": "StakingCabin",
+    "account_address": "celestia12dp3z5c8e47869ktxxggrkjzh67zl2w8xfjuvw",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rzuk2l2hm4s9tmttvzeujd85q4vxhay4jll325",
+    "moniker": "ceceliapark",
+    "account_address": "celestia1rzuk2l2hm4s9tmttvzeujd85q4vxhay4hqaguj",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ww0tsyuaqkdz57zjzczzmj0jp07y3d8x63f7mj",
+    "moniker": "wendysmithy",
+    "account_address": "celestia1ww0tsyuaqkdz57zjzczzmj0jp07y3d8xlwt8d5",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1kk878jjqzm2gmwdurcyxp2avypxq8d2fur0lys",
+    "moniker": "shannoncarsolo",
+    "account_address": "celestia1kk878jjqzm2gmwdurcyxp2avypxq8d2feudxjk",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1fmcst8au3xmm0z6qe7hadxujq66qn648w3j9x2",
+    "moniker": "sabrinaperucci",
+    "account_address": "celestia1fmcst8au3xmm0z6qe7hadxujq66qn648twsusv",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1m7mrmm7l6kqg05mtfnylgcah6gadvsnn7uvdj2",
+    "moniker": "beulahburtono",
+    "account_address": "celestia1m7mrmm7l6kqg05mtfnylgcah6gadvsnnmrw5yv",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1mdn8wzkjcr4r6splme2ud80zemhjjj4kaezsp7",
+    "moniker": "Korniei",
+    "account_address": "celestia1mdn8wzkjcr4r6splme2ud80zemhjjj4kcxqfhc",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper187qtghts5zhzs4zcaqe694jyujs3pjuv7nydgj",
+    "moniker": "Crypto Plant",
+    "account_address": "celestia187qtghts5zhzs4zcaqe694jyujs3pjuvmvx575",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1kj0sruhrt7nc4fukntcal5yn8zmzulxjxmauzt",
+    "moniker": "estellaminor",
+    "account_address": "celestia1kj0sruhrt7nc4fukntcal5yn8zmzulxjryl95d",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1v7zescl75wc8g39ahkfh9ygmrrfwcxpl8ufv96",
+    "moniker": "jimmybellboy",
+    "account_address": "celestia1v7zescl75wc8g39ahkfh9ygmrrfwcxplzrt4nu",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1t85xwmjmrsl5hmg6ftcrc6uemsh7dztz6ngpg5",
+    "moniker": "williamkingdom",
+    "account_address": "celestia1t85xwmjmrsl5hmg6ftcrc6uemsh7dztzlv2c7j",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper12862ht8mkz6y5d235mxltzf7rcst95fl3dgt40",
+    "moniker": "prestonmartine",
+    "account_address": "celestia12862ht8mkz6y5d235mxltzf7rcst95fl5j2jrf",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rqslv339nuhvcw8pq9a8qvh3z9cv53kasec3h5",
+    "moniker": "caroldaisy",
+    "account_address": "celestia1rqslv339nuhvcw8pq9a8qvh3z9cv53ka4x6gpj",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1yenujmkczae2d93tj22vq5rhcdaxduzhee0nsm",
+    "moniker": "montecarlo",
+    "account_address": "celestia1yenujmkczae2d93tj22vq5rhcdaxduzhuxd2xa",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1nm36zsap6fte52k2ftd9nm4h9j7dyd8uh46y69",
+    "moniker": "lesia.lavigne",
+    "account_address": "celestia1nm36zsap6fte52k2ftd9nm4h9j7dyd8uj2cavr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1fe5s5zk2jlrf62j8mtejkkzv6ls4z2ncmjqrs5",
+    "moniker": "jasonrenaldi",
+    "account_address": "celestia1fe5s5zk2jlrf62j8mtejkkzv6ls4z2nc7dz6xj",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15dt3xd2zgrje3uck8fsukcqhq87fj9jy6wxjpk",
+    "moniker": "wilbert_clayton",
+    "account_address": "celestia15dt3xd2zgrje3uck8fsukcqhq87fj9jyl3yths",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1zk9qh86vqzqykwjv2hl0y2c20v5r5tcc2tsnyk",
+    "moniker": "terryfreeman",
+    "account_address": "celestia1zk9qh86vqzqykwjv2hl0y2c20v5r5tcc05j2js",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper188ps09yvh3exzh8s6anywpnlh7y0psv8hjgll6",
+    "moniker": "stephenwho",
+    "account_address": "celestia188ps09yvh3exzh8s6anywpnlh7y0psv8jd2xfu",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper12jjxr8f4yl3vs4vmmfh79ge4nms6e3qjeet4kr",
+    "moniker": "lestonkole",
+    "account_address": "celestia12jjxr8f4yl3vs4vmmfh79ge4nms6e3qjuxfvq9",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14p69cd9f5hp0gn4xyqe787u43ztgwey68flv6l",
+    "moniker": "farahelen",
+    "account_address": "celestia14p69cd9f5hp0gn4xyqe787u43ztgwey6zka4ve",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rkc9kmf9jeded0gpf8g63rxy7cv4fn5u765u0u",
+    "moniker": "tobia_samato99",
+    "account_address": "celestia1rkc9kmf9jeded0gpf8g63rxy7cv4fn5um9k9e6",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1z05xakz37j9c34mt5c2v50c3y608tvj8ea72lj",
+    "moniker": "keysakhiana",
+    "account_address": "celestia1z05xakz37j9c34mt5c2v50c3y608tvj8uzunf5",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1juxqseqdz2kgr85nesj9dxvfnuqt0gepmln4zm",
+    "moniker": "inezheart",
+    "account_address": "celestia1juxqseqdz2kgr85nesj9dxvfnuqt0gep7q3v5a",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper138wye66aeem82pcgflcvtqgvn6y97gdufhw379",
+    "moniker": "lindsaysweety",
+    "account_address": "celestia138wye66aeem82pcgflcvtqgvn6y97gduvgvggr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper189vk0yl8ce5wfh6h36hmgvjlmwrz2sgl5q5zp6",
+    "moniker": "jasoneduardo",
+    "account_address": "celestia189vk0yl8ce5wfh6h36hmgvjlmwrz2sgl3lkmhu",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1pdc3audkgjltsu20ykmdrgyrhdvfefcrlfuw04",
+    "moniker": "kalthalaureen",
+    "account_address": "celestia1pdc3audkgjltsu20ykmdrgyrhdvfefcr6k7hen",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15rtxp0sryydedghphetva975czs6fypzz8xjue",
+    "moniker": "oliverussell",
+    "account_address": "celestia15rtxp0sryydedghphetva975czs6fypz8cyt2l",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1c83ffthejaten0lgw7r03hukxnwcd9rcwdw0uu",
+    "moniker": "smartinvest",
+    "account_address": "celestia1c83ffthejaten0lgw7r03hukxnwcd9rctjvk26",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1c0s62hyj07s678mfdnqfnm00ca9kk5ag9frrt0",
+    "moniker": "Clark",
+    "account_address": "celestia1c0s62hyj07s678mfdnqfnm00ca9kk5agqkp6af",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper13dxywgy35gzr3v7q94sxuxjccqmrvpp2wuun5c",
+    "moniker": "nelsonorton",
+    "account_address": "celestia13dxywgy35gzr3v7q94sxuxjccqmrvpp2tr72z7",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1fg9l3xvfuu9wxremv2229966zawysg4r40gw5x",
+    "moniker": "Node Guardians",
+    "account_address": "celestia1fg9l3xvfuu9wxremv2229966zawysg4rss2hzq",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1w8hktwz3fdxgfuxezlj3jseatfdttjr4pw0vkh",
+    "moniker": "cryptonodes",
+    "account_address": "celestia1w8hktwz3fdxgfuxezlj3jseatfdttjr4y3d4q3",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xmpadx2nmx2lyx9j08z0jsq4dvtz9yezgc5wvq",
+    "moniker": "RomSM",
+    "account_address": "celestia1xmpadx2nmx2lyx9j08z0jsq4dvtz9yezd8kh6x",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1pugc8q9pykumhyvca2rmet03tdgct4vwsqguvl",
+    "moniker": "Deroris Moniker2025",
+    "account_address": "celestia1pugc8q9pykumhyvca2rmet03tdgct4vw4l296e",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper157dmufttcy36pkuvd4r7xwlgy8u7a3drhstxav",
+    "moniker": "CHAIN DIGITAL",
+    "account_address": "celestia157dmufttcy36pkuvd4r7xwlgy8u7a3drj0flt2",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper18as72vpjl3ekxlmqhj7wupuhvkkwf07pjf88vn",
+    "moniker": "Martezoy",
+    "account_address": "celestia18as72vpjl3ekxlmqhj7wupuhvkkwf07phk9764",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper19y7gnn995ysc0ssd9jcshynsg72sdqqg7nqegx",
+    "moniker": "Antho",
+    "account_address": "celestia19y7gnn995ysc0ssd9jcshynsg72sdqqgmvzq7q",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper142xclqa57vfrdkcx20md922mn8d9df5lhfkqy6",
+    "moniker": "DanielX",
+    "account_address": "celestia142xclqa57vfrdkcx20md922mn8d9df5ljk5eju",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1mm8yykm46ec3t0dgwls70g0jvtm055wkqzxyfp",
+    "moniker": "Guzel",
+    "account_address": "celestia1mm8yykm46ec3t0dgwls70g0jvtm055wk9ayal8",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1f6fxqjxvdwma3mewa4r2pxdcmed8u53gf40hy9",
+    "moniker": "Merna",
+    "account_address": "celestia1f6fxqjxvdwma3mewa4r2pxdcmed8u53gv2dwjr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ql5ttfjslhxtux40jvpfgu525y920nz8qfaeer",
+    "moniker": "Bakerik",
+    "account_address": "celestia1ql5ttfjslhxtux40jvpfgu525y920nz89klq09",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1y4zwxk22p4skp3evs4ewkf6sujyhr50qw5uagx",
+    "moniker": "Kryz",
+    "account_address": "celestia1y4zwxk22p4skp3evs4ewkf6sujyhr50qtt7y7q",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16wdjv293mu5fjk982eqsuqz7w65e5e02lcklt0",
+    "moniker": "MegaNode",
+    "account_address": "celestia16wdjv293mu5fjk982eqsuqz7w65e5e02685xaf",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1yutrqa9apj0nkr3e5qapxyuqjxhkyc4hnjzums",
+    "moniker": "blockhub",
+    "account_address": "celestia1yutrqa9apj0nkr3e5qapxyuqjxhkyc4hkdq9dk",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1kuw833l48h6kj93d9qavk8jnqhpru6yckx078m",
+    "moniker": "bashibozuk",
+    "account_address": "celestia1kuw833l48h6kj93d9qavk8jnqhpru6ycned83a",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper102mp9x67eg24uc9w7hz96mkuarg43ap4wm5dzj",
+    "moniker": "KSerg",
+    "account_address": "celestia102mp9x67eg24uc9w7hz96mkuarg43ap4tyk555",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1c4xc87af9zqktqfmmex4wpvgc7yucn53a8tqhg",
+    "moniker": "Kennethy",
+    "account_address": "celestia1c4xc87af9zqktqfmmex4wpvgc7yucn53ccfepw",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16v07j29rl4ug3zhp0m4y4lczeh0hs32pymx7jd",
+    "moniker": "StarkNode",
+    "account_address": "celestia16v07j29rl4ug3zhp0m4y4lczeh0hs32ppyy8yt",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ern8hn5l8yekk9xt6s0a04zktjtq4ellguhh2f",
+    "moniker": "Kirill_TE",
+    "account_address": "celestia1ern8hn5l8yekk9xt6s0a04zktjtq4elldr4wu0",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1k5q3tevc5rcts023h658yav2jmv07zsvq8s8hw",
+    "moniker": "Panda",
+    "account_address": "celestia1k5q3tevc5rcts023h658yav2jmv07zsv9cj7pg",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1md9zvz7u6nv8xnfpxz94ffcxq3yda37ugx5n5k",
+    "moniker": "UTSA & Let's Node",
+    "account_address": "celestia1md9zvz7u6nv8xnfpxz94ffcxq3yda37udek2zs",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1d823f76u23kgqph2jfk2nr6pvasy3enzmc9dv9",
+    "moniker": "Robin",
+    "account_address": "celestia1d823f76u23kgqph2jfk2nr6pvasy3enz78856r",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1zxa25h9tp2pgkgqhwl8qp324l9m3cn38l4u4xu",
+    "moniker": "NastyQueen",
+    "account_address": "celestia1zxa25h9tp2pgkgqhwl8qp324l9m3cn38627vs6",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper158atnchfqs3zmqpmy0kapptkkq243dx49en207",
+    "moniker": "RIGOR",
+    "account_address": "celestia158atnchfqs3zmqpmy0kapptkkq243dx4qx3nec",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1e6sn7yua97asjwf5kpn8dmt07h5v2960ag78j9",
+    "moniker": "Uptown",
+    "account_address": "celestia1e6sn7yua97asjwf5kpn8dmt07h5v2960chu7yr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ezzkm4y9elkdv6f554x787kx4jp803aaff99qz",
+    "moniker": "Thomilx",
+    "account_address": "celestia1ezzkm4y9elkdv6f554x787kx4jp803aavk8uky",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ex0994936p0gmzwn3hjwcx4gy0a3822l6fzaey",
+    "moniker": "Lopez",
+    "account_address": "celestia1ex0994936p0gmzwn3hjwcx4gy0a3822llkqy0z",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper167ary36a9swpfxgva5nretvtyp64a5lmlytmck",
+    "moniker": "Sunshine",
+    "account_address": "celestia167ary36a9swpfxgva5nretvtyp64a5lm6mfzws",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper100ak6mxwx790qfwe9ajnvmcwexww4shrdc0wmv",
+    "moniker": "STAKEME",
+    "account_address": "celestia100ak6mxwx790qfwe9ajnvmcwexww4shrg8dhd2",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16exsjvmv5wvnhgu76jhdfs8yqdg0lkynphettt",
+    "moniker": "Clorophilla",
+    "account_address": "celestia16exsjvmv5wvnhgu76jhdfs8yqdg0lkynygmjad",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1crqs5m83n0ttle48qmg6zs0nsdac9hrmh3heua",
+    "moniker": "Firstset",
+    "account_address": "celestia1crqs5m83n0ttle48qmg6zs0nsdac9hrmjw4q2m",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1smu06ccqkqr0zss4zw7xy0hcfqn0qj5ta9nvvc",
+    "moniker": "Wetez",
+    "account_address": "celestia1smu06ccqkqr0zss4zw7xy0hcfqn0qj5tc63467",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14zfnc2kxdgdmacnuuytre5p6fx97ttfqqx23st",
+    "moniker": "Starshipnodes",
+    "account_address": "celestia14zfnc2kxdgdmacnuuytre5p6fx97ttfq9eggxd",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1fn3lr4zxlnlk7aqzhxtc54er440nkmvttel5xf",
+    "moniker": "genznodes",
+    "account_address": "celestia1fn3lr4zxlnlk7aqzhxtc54er440nkmvtwxads0",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1prxtghtsjrdwdtkt82kye3a7yukmcay6r67aak",
+    "moniker": "RockawayX Infra",
+    "account_address": "celestia1prxtghtsjrdwdtkt82kye3a7yukmcay6x9uyts",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper13qtjn9auxv68humrv9s0673yw6cqas09vj6wfv",
+    "moniker": "disabled",
+    "account_address": "celestia13qtjn9auxv68humrv9s0673yw6cqas09fdchl2",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper18d7ctra8jyafmyj0e669al73dyrxreq0dnpf3q",
+    "moniker": "ValidatorVN",
+    "account_address": "celestia18d7ctra8jyafmyj0e669al73dyrxreq0gvrs8x",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1upn2840nlx277464wy3dmf7rjl7dsnfh7gr09c",
+    "moniker": "rawstake.io",
+    "account_address": "celestia1upn2840nlx277464wy3dmf7rjl7dsnfhmhpkn7",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper18hmc5tsx82s0yh06xns80ju7sppzfqyp933tfs",
+    "moniker": "interchain.FM",
+    "account_address": "celestia18hmc5tsx82s0yh06xns80ju7sppzfqypqwnjlk",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1qavy7dtuf5crdxvz96lep4hmn64vrtjlfgackm",
+    "moniker": "DragonStake",
+    "account_address": "celestia1qavy7dtuf5crdxvz96lep4hmn64vrtjlvhlpqa",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1l0mmzsq86zs5v9emp2c8yuuyke5l25uw4gwdu5",
+    "moniker": "Quasar \ud83e\udd16\ud83e\uddec\ud83e\udde0",
+    "account_address": "celestia1l0mmzsq86zs5v9emp2c8yuuyke5l25uwshv52j",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16j3as30tvqg3pn93m88el4a39zslgp8pafyv3n",
+    "moniker": "PigCash",
+    "account_address": "celestia16j3as30tvqg3pn93m88el4a39zslgp8pckx484",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ww9tfljduf30au0535rt7s7lw7gjjrnhx8xfpq",
+    "moniker": "Liquify",
+    "account_address": "celestia1ww9tfljduf30au0535rt7s7lw7gjjrnhrcyshx",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14jaa98r7xjn29nhsr583kney3grrveda7y9mn8",
+    "moniker": "Maple Nodes",
+    "account_address": "celestia14jaa98r7xjn29nhsr583kney3grrvedamm8z9p",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper160a45h9eaetlh83ntv6ytwlcpt3ykcr0eemtqf",
+    "moniker": "TTT VN",
+    "account_address": "celestia160a45h9eaetlh83ntv6ytwlcpt3ykcr0uxejk0",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1tuuvev7ja506r5xscktegf3n9upss9klklcsj3",
+    "moniker": "Node&Validator",
+    "account_address": "celestia1tuuvev7ja506r5xscktegf3n9upss9klnq6fyh",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1en29mhgeqcpannf6cyuu9jwd0c5u4nhth9vrmw",
+    "moniker": "ATN",
+    "account_address": "celestia1en29mhgeqcpannf6cyuu9jwd0c5u4nhtj6w6dg",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16yxraf0edf3xhacqm9wyrjuha2wrjmyn794thn",
+    "moniker": "phucalidator",
+    "account_address": "celestia16yxraf0edf3xhacqm9wyrjuha2wrjmynm6hjp4",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1zg790v6fr5k3e3pv945c8nmduhr0ma8uhaqfd9",
+    "moniker": "NODEJUMPER",
+    "account_address": "celestia1zg790v6fr5k3e3pv945c8nmduhr0ma8ujzzsmr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rrv7se0fl7ctrxgvv93ytpe9zk3ywghfatlmmd",
+    "moniker": "Oni \u26e9 ",
+    "account_address": "celestia1rrv7se0fl7ctrxgvv93ytpe9zk3ywghfc5azdt",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rjc75wf7kky488wrm0n6eeg5c6nn22wnrncga3",
+    "moniker": "notlus",
+    "account_address": "celestia1rjc75wf7kky488wrm0n6eeg5c6nn22wnxv63th",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper19tq68an24lnw6ga9d5scplscxp08g0hm7q4tsx",
+    "moniker": "Alessandro Mazza",
+    "account_address": "celestia19tq68an24lnw6ga9d5scplscxp08g0hmmlhjxq",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper107naqnllm5k4735qn03adsemudp6egtzwq5me5",
+    "moniker": "Tanbmt",
+    "account_address": "celestia107naqnllm5k4735qn03adsemudp6egtztlkz0j",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14dq8lunmzlqe6qvyer63er9cwgde2tew4kd3gs",
+    "moniker": "Bro_n_Bro",
+    "account_address": "celestia14dq8lunmzlqe6qvyer63er9cwgde2tewsf0g7k",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1uc8asgh8ss57hlhp06j6nhcs77ppg24wxu85rj",
+    "moniker": "CryptoSJnet",
+    "account_address": "celestia1uc8asgh8ss57hlhp06j6nhcs77ppg24wrr9d45",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1lf8zpx4dm8vfpne5vh7us3zc7h7z253gapq5x9",
+    "moniker": "Jaha",
+    "account_address": "celestia1lf8zpx4dm8vfpne5vh7us3zc7h7z253gc7zdsr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper17m7qkr902alpxgmd2gwxc8qcrslllsg6swk9h9",
+    "moniker": "Nocturnal Labs",
+    "account_address": "celestia17m7qkr902alpxgmd2gwxc8qcrslllsg6435upr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1f8ja6xhl8jgqsq6ud7sd2s3r6fwd3h2wj2ryyn",
+    "moniker": "Stake Shark",
+    "account_address": "celestia1f8ja6xhl8jgqsq6ud7sd2s3r6fwd3h2wh4paj4",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1c58x4mfphqz8lvfwvjr75sdcqlx3s92cae4f7l",
+    "moniker": "Neuler",
+    "account_address": "celestia1c58x4mfphqz8lvfwvjr75sdcqlx3s92ccxhsge",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper14xdgpx05xrklxh7u2h0w44fa9gfkdy8ysc4yqq",
+    "moniker": "ChainTrails | \ud83d\udee0\ufe0f",
+    "account_address": "celestia14xdgpx05xrklxh7u2h0w44fa9gfkdy8y48hakx",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1tzd7yclyxxqyn0fwsh9z33nzylw4jm536gn3gy",
+    "moniker": "xiaohhg",
+    "account_address": "celestia1tzd7yclyxxqyn0fwsh9z33nzylw4jm53lh3g7z",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1u76ke23tars38agwr2hgq9cyq6j2crxze3l5gs",
+    "moniker": "GodsHunter",
+    "account_address": "celestia1u76ke23tars38agwr2hgq9cyq6j2crxzuwad7k",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper104jqlyauyk26cj7wzcwzu4a6rcvmvma9v8ngrd",
+    "moniker": "AikoDai",
+    "account_address": "celestia104jqlyauyk26cj7wzcwzu4a6rcvmvma9fc334t",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1tzdw0j4faaslp4hr7qrcj6xh0knnkrc7ug3edp",
+    "moniker": "Staked",
+    "account_address": "celestia1tzdw0j4faaslp4hr7qrcj6xh0knnkrc7ehnqm8",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1gy7a60vjdq8ztuvtx5s4jsp88w0swyfm55cy7p",
+    "moniker": "LinkGold",
+    "account_address": "celestia1gy7a60vjdq8ztuvtx5s4jsp88w0swyfm3t6ag8",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15m0hlh7thz8d4fs2dwqvuyhwc36ykzkkvxzdge",
+    "moniker": "Oneplus",
+    "account_address": "celestia15m0hlh7thz8d4fs2dwqvuyhwc36ykzkkfeq57l",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ujc2kt26d3a0x7v92e5acfu952j228f2lyvfnc",
+    "moniker": "finteh",
+    "account_address": "celestia1ujc2kt26d3a0x7v92e5acfu952j228f26mws97",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1smtxalc8df2v0y7g5r3znf0r84p2h6238nku27",
+    "moniker": "StakeWithUs",
+    "account_address": "celestia1smtxalc8df2v0y7g5r3znf0r84p2h623zv59uc",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1qfxlxwy4et07d3r58rg54tsg3hpwpckzrkm3ak",
+    "moniker": "Moonlet",
+    "account_address": "celestia1qfxlxwy4et07d3r58rg54tsg3hpwpckzxfegts",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1zgefdt4d7jkfvxnlayk2tcnf5alag2v9wh2q7n",
+    "moniker": "Moco",
+    "account_address": "celestia1zgefdt4d7jkfvxnlayk2tcnf5alag2v9tggeg4",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1z8xqqr5affgw4knw20v9p7lwrmg4gm8fqhqptt",
+    "moniker": "StakePool",
+    "account_address": "celestia1z8xqqr5affgw4knw20v9p7lwrmg4gm8f9gzcad",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1naw9uqc9vzk40gn6w58u988jy4hqc5la3nvum0",
+    "moniker": "danku_zone w/ DAIC",
+    "account_address": "celestia1naw9uqc9vzk40gn6w58u988jy4hqc5la5vw9df",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1a79l2kpknpzudfpk8667nm0el4zw3uurzmrekr",
+    "moniker": "Yellow_submarine",
+    "account_address": "celestia1a79l2kpknpzudfpk8667nm0el4zw3uur8ypqq9",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1wgen8sr2tspujuqa274r7j39gl2e0x85e48q6v",
+    "moniker": "\ud83c\udf10 KysenPool Celestia Test ",
+    "account_address": "celestia1wgen8sr2tspujuqa274r7j39gl2e0x85u29ev2",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper19kx0ce7h9tfzzw0u8luny3unprv2v83ee8xzuh",
+    "moniker": "staking-explorer.com",
+    "account_address": "celestia19kx0ce7h9tfzzw0u8luny3unprv2v83eucym23",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper122fcug5l8fzn3t8hupnehhq0q3z0k5n3dve8uc",
+    "moniker": "Ttty",
+    "account_address": "celestia122fcug5l8fzn3t8hupnehhq0q3z0k5n3gnm727",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1wax3ktfsx0u943xl8rnt3aplxcszhryxfd6uns",
+    "moniker": "NODE.996",
+    "account_address": "celestia1wax3ktfsx0u943xl8rnt3aplxcszhryxvjc99k",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1kkjautay60zzuckeqvafcyjpwvfxx8srsv3swr",
+    "moniker": "WEO",
+    "account_address": "celestia1kkjautay60zzuckeqvafcyjpwvfxx8sr4nnfc9",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1zy2vl0hhu0xkevf8xwv0eysq9qq5535c7g4sgl",
+    "moniker": "0xmonn",
+    "account_address": "celestia1zy2vl0hhu0xkevf8xwv0eysq9qq5535cmhhf7e",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1yh5v6kw2gsqm6ukm7dg5pxd8vxw55g8j9r4mv0",
+    "moniker": "BTCGOT",
+    "account_address": "celestia1yh5v6kw2gsqm6ukm7dg5pxd8vxw55g8jquhz6f",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1gwgphjks9lyjrcht6dg9gyku090tecm77e0qun",
+    "moniker": "Steven",
+    "account_address": "celestia1gwgphjks9lyjrcht6dg9gyku090tecm7mxde24",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ksqfc6445yq82n3p28utpt500fyddrtlezx3pp",
+    "moniker": "Chorus One",
+    "account_address": "celestia1ksqfc6445yq82n3p28utpt500fyddrtluaygh8",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1hnzmmnj3lgmh4vx6u5vaspw2ry5wh7nr6fhp58",
+    "moniker": "YK_NODE",
+    "account_address": "celestia1hnzmmnj3lgmh4vx6u5vaspw2ry5wh7nrlk4czp",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1w4pnjve38j98wavq2rc2pel8dyeyasr6pjwu99",
+    "moniker": "Nocturnal",
+    "account_address": "celestia1w4pnjve38j98wavq2rc2pel8dyeyasr6ydv9nr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ha3ccx3ax6mxdcg252xdsfyvsltgax57dzferx",
+    "moniker": "lemniscap",
+    "account_address": "celestia1ha3ccx3ax6mxdcg252xdsfyvsltgax57gatq4q",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1a2l96rc362fzwrentr8f89ljp679rl76ctsaah",
+    "moniker": "Lemniscap",
+    "account_address": "celestia1a2l96rc362fzwrentr8f89ljp679rl76a5jyt3",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1vruxu9gwr8xkp30pqafwvwcnaa4g3u7em79jtt",
+    "moniker": "Avril_14th",
+    "account_address": "celestia1vruxu9gwr8xkp30pqafwvwcnaa4g3u7e7p8tad",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1vs3vs62wrnkkdmzp4mc0cruhe97ppjgnptfw88",
+    "moniker": "vista_staking",
+    "account_address": "celestia1vs3vs62wrnkkdmzp4mc0cruhe97ppjgny5th3p",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper12huknlyx9dedqhheql0v9c59jpght7ujjmwfc3",
+    "moniker": "mocha-val",
+    "account_address": "celestia12huknlyx9dedqhheql0v9c59jpght7ujhyvswh",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1suc602sxad0p5heweys7emjlft0j5q3jerr99j",
+    "moniker": "MOCHA",
+    "account_address": "celestia1suc602sxad0p5heweys7emjlft0j5q3juupun5",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rn3hp9433rguvm75u70kjjqjc65rfh3d4gzaru",
+    "moniker": "somenode",
+    "account_address": "celestia1rn3hp9433rguvm75u70kjjqjc65rfh3dshqy46",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1gmh4vnmfrcxcs9vw4zutlu72kxwcz74z9j9d50",
+    "moniker": "Nocturnal",
+    "account_address": "celestia1gmh4vnmfrcxcs9vw4zutlu72kxwcz74zqd85zf",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1fahvqjxumj6h32t3np5lwepkh7jeapwese4vqg",
+    "moniker": "your_moniker",
+    "account_address": "celestia1fahvqjxumj6h32t3np5lwepkh7jeapwe4xh4kw",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1m3jlr5je2z9cj622crtg5zt9uew70rmrej92sl",
+    "moniker": "BlockBeacon",
+    "account_address": "celestia1m3jlr5je2z9cj622crtg5zt9uew70rmrud8nxe",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1pkqz05mys2gfawt6e5cdr8ak9wga2s7k0gy9ha",
+    "moniker": "CC Validator",
+    "account_address": "celestia1pkqz05mys2gfawt6e5cdr8ak9wga2s7k2hxupm",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper18r5fv24k9uemwsy7uxph7ad227s0jt9fc7c2ws",
+    "moniker": "%arg",
+    "account_address": "celestia18r5fv24k9uemwsy7uxph7ad227s0jt9fap6nck",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1h4pphsszkcxww9und0mptrzzff5un0j4ym4ppt",
+    "moniker": "Nocturnal Labs",
+    "account_address": "celestia1h4pphsszkcxww9und0mptrzzff5un0j4pyhchd",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1anzh3fq5ca689uznrqmjzwhpphrcvd8u58enel",
+    "moniker": "Kalia Network",
+    "account_address": "celestia1anzh3fq5ca689uznrqmjzwhpphrcvd8u3cm20e",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1lx4ddwwglky45aluxmxhy9wh8a5c5rxne33r72",
+    "moniker": "bertinode",
+    "account_address": "celestia1lx4ddwwglky45aluxmxhy9wh8a5c5rxnuwn6gv",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1qsv5zfqj7ydfm86kfa7ftuw9zpdks4a0rl99y5",
+    "moniker": "<DoraFactory-decommissioned>",
+    "account_address": "celestia1qsv5zfqj7ydfm86kfa7ftuw9zpdks4a0xq8ujj",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ee8wqcwkaq5jhzsrmkmyntsjqhgvzyspwpx0wj",
+    "moniker": "please redelegate",
+    "account_address": "celestia1ee8wqcwkaq5jhzsrmkmyntsjqhgvzyspt7ykc5",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1uahy4tqaksch9fym4ef36jdjmcxl0n5904pn7f",
+    "moniker": "test4d",
+    "account_address": "celestia1uahy4tqaksch9fym4ef36jdjmcxl0n5922r2g0",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1tjjawv5pjg9swkvg9an2d59emr3g0smxcs2yu0",
+    "moniker": "POSTHUMAN \ud83e\uddec StakeDrop",
+    "account_address": "celestia1tjjawv5pjg9swkvg9an2d59emr3g0smxa0ga2f",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1thxepkd67s7fplptae7xue7ttp73gqdecurynw",
+    "moniker": "(starm)",
+    "account_address": "celestia1thxepkd67s7fplptae7xue7ttp73gqdearpa9g",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1g78ggh3zjucftz4tsmpdrmlxxg9yelcs6l579z",
+    "moniker": "Hello world",
+    "account_address": "celestia1g78ggh3zjucftz4tsmpdrmlxxg9yelcslqk8ny",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1qu6lfudmxd964ycnx27zcc7afvf25qp3z8g2je",
+    "moniker": "Quadro_Network",
+    "account_address": "celestia1qu6lfudmxd964ycnx27zcc7afvf25qp38c2nyl",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1p2and9ehh9rgqmefzwhzq7yhkrkd5wdddx8mgv",
+    "moniker": "inklbot",
+    "account_address": "celestia1p2and9ehh9rgqmefzwhzq7yhkrkd5wddge9z72",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1rd6ptydfv0fm82q6vqf6pc4f2jpyen52zjfws6",
+    "moniker": "inklbot",
+    "account_address": "celestia1rd6ptydfv0fm82q6vqf6pc4f2jpyen528dthxu",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper19r9llwfsk0ugyy0ugf6cc0h7qz06smnatxd9er",
+    "moniker": "Citizen Web3",
+    "account_address": "celestia19r9llwfsk0ugyy0ugf6cc0h7qz06smnawe0u09",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xlg0rusfmrnjadvuge69cp8489mels0kdmu0v9",
+    "moniker": "snoyiatk",
+    "account_address": "celestia1xlg0rusfmrnjadvuge69cp8489mels0kgy7k6r",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1d8mua7a3msnkd8ynrh234zj4djuemeaar4m7p8",
+    "moniker": "linear",
+    "account_address": "celestia1d8mua7a3msnkd8ynrh234zj4djuemeaax2e8hp",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1kdl3jpp9h039s5k3g8wusa2fs4fmmdl9wlkl54",
+    "moniker": "nk-wallet",
+    "account_address": "celestia1kdl3jpp9h039s5k3g8wusa2fs4fmmdl9tq5xzn",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1c88ppyy8l24xnz554chem0zdwqxud4ghgytwmx",
+    "moniker": "kaban.work",
+    "account_address": "celestia1c88ppyy8l24xnz554chem0zdwqxud4ghdmfhdq",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ezv03qp8vvphgkzvmak0efslddwxz9dnusgnc3",
+    "moniker": "jcs",
+    "account_address": "celestia1ezv03qp8vvphgkzvmak0efslddwxz9dne022wh",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1lelu7qxvsf50qh8x32rg6hw9fscpzwpj24aqhk",
+    "moniker": "cel-val-node",
+    "account_address": "celestia1lelu7qxvsf50qh8x32rg6hw9fscpzwpj02leps",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ty5ddfsm0hz0v0kxxpyf8ulwg3jaupdlt97c75",
+    "moniker": "Range (retiring)",
+    "account_address": "celestia1ty5ddfsm0hz0v0kxxpyf8ulwg3jaupdlw6upgj",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1z5x67rzf4x9p367e008mxvp78x26xhl2qhwglz",
+    "moniker": "gateway",
+    "account_address": "celestia1z5x67rzf4x9p367e008mxvp78x26xhl29gv3fy",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1cracvyljz3u39rpwqrnug7vdj2gzl9xmrfgw7f",
+    "moniker": "Nodeinfra",
+    "account_address": "celestia1cracvyljz3u39rpwqrnug7vdj2gzl9xmxk2hg0",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1fu77qa3xey0du8gkpz4fx6rzztgze45fy5gzja",
+    "moniker": "DoraFactory",
+    "account_address": "celestia1fu77qa3xey0du8gkpz4fx6rzztgze45fpt2mym",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper12lr07ktgdl94dnd5h7urwr8dgfcq8qajq5vfmp",
+    "moniker": "Chainflow",
+    "account_address": "celestia12lr07ktgdl94dnd5h7urwr8dgfcq8qaj9twsd8",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1tj7nndmyy5g3dll66qu7zzy9fttl6kxhw6nvp0",
+    "moniker": "silk-celestia",
+    "account_address": "celestia1tj7nndmyy5g3dll66qu7zzy9fttl6kxht934hf",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1vdsks8fnzlqdwq7mx2mp9jsc0ypu3pr88nf9jn",
+    "moniker": "binary-builders",
+    "account_address": "celestia1vdsks8fnzlqdwq7mx2mp9jsc0ypu3pr8zvtuy4",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1d8rj55u82vt2yfespguyenzqrcnzkfgecukzqt",
+    "moniker": "momo",
+    "account_address": "celestia1d8rj55u82vt2yfespguyenzqrcnzkfgear5mkd",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1dd8k9xk9qpm5t953u7ek5g5d8kqd7eh8xutfn7",
+    "moniker": "admit",
+    "account_address": "celestia1dd8k9xk9qpm5t953u7ek5g5d8kqd7eh8rrfs9c",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1dlrgpskslvxlxauzjx4merqctxq8wa2ej34sfr",
+    "moniker": "wenda",
+    "account_address": "celestia1dlrgpskslvxlxauzjx4merqctxq8wa2ehwhfl9",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1wru5520j7ve85s9226gxleag344gas4kr68c3l",
+    "moniker": "ValidatorVN.com",
+    "account_address": "celestia1wru5520j7ve85s9226gxleag344gas4kx99p8e",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1wundc0czvdmx6pzufg0g6gxqt6ruanm0z6nr9u",
+    "moniker": "testosu",
+    "account_address": "celestia1wundc0czvdmx6pzufg0g6gxqt6ruanm08936n6",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1wask3qkqvq6qax2xlqv3usrnz06fjakhuuya7q",
+    "moniker": "meowmix",
+    "account_address": "celestia1wask3qkqvq6qax2xlqv3usrnz06fjakherxygx",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ssdqsxtr260yxc96m6reh3lqac3wm2s7p62225",
+    "moniker": "nobita-validator",
+    "account_address": "celestia1ssdqsxtr260yxc96m6reh3lqac3wm2s7y9gnuj",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper135hzn575dhzclzhykvggmlrt62d5xm0ed8x3dc",
+    "moniker": "CGSol",
+    "account_address": "celestia135hzn575dhzclzhykvggmlrt62d5xm0egcygm7",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1c6jpp84frjp0qd5xcqwvqvsgcqq0xqqrlckezy",
+    "moniker": "Cosmonaut Stakes TIA",
+    "account_address": "celestia1c6jpp84frjp0qd5xcqwvqvsgcqq0xqqr685q5z",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16yfjmdvvewns3y5x9rez32msmyav0ee2swy8su",
+    "moniker": "SkySkipper_Celestia_V",
+    "account_address": "celestia16yfjmdvvewns3y5x9rez32msmyav0ee243x7x6",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1srt0vu2qcjkq4dvcrgssvg6ug53j53kf4943ln",
+    "moniker": "NEOPIN",
+    "account_address": "celestia1srt0vu2qcjkq4dvcrgssvg6ug53j53kfs6hgf4",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1pt8drkpfee322ns9stkss29a3wmdchhqch3v6j",
+    "moniker": "iamicf",
+    "account_address": "celestia1pt8drkpfee322ns9stkss29a3wmdchhqagn4v5",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ztj5wxlnl6cc4qwgwqpwg5h2ktc64ma7eu9lk4",
+    "moniker": "test",
+    "account_address": "celestia1ztj5wxlnl6cc4qwgwqpwg5h2ktc64ma7ur8xqn",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1z0d3sd7gf09ac7m9lrsg29830wsl33sa6km74d",
+    "moniker": "MilaK",
+    "account_address": "celestia1z0d3sd7gf09ac7m9lrsg29830wsl33salfe8rt",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1reh5sehzewcq4ghudc42vwkstrw9gajpttjyeg",
+    "moniker": "Restake",
+    "account_address": "celestia1reh5sehzewcq4ghudc42vwkstrw9gajpw5sa0w",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1r7ss7lfqtqjz54z5wc7u2d68m7glsdytwjszkl",
+    "moniker": "Blockpower",
+    "account_address": "celestia1r7ss7lfqtqjz54z5wc7u2d68m7glsdyttdjmqe",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1x2atgvcv7sp64mqm0df8arx9awa33qz8jsyyyk",
+    "moniker": "test1234",
+    "account_address": "celestia1x2atgvcv7sp64mqm0df8arx9awa33qz8h0xajs",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1xjugfd99hwlpzs53mdvdq4x0qcu9djjct6vrqu",
+    "moniker": "echoic",
+    "account_address": "celestia1xjugfd99hwlpzs53mdvdq4x0qcu9djjcw9w6k6",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper18glt03cnr47tmt4z32n28rsz8se4anjlfga479",
+    "moniker": "DXN",
+    "account_address": "celestia18glt03cnr47tmt4z32n28rsz8se4anjlvhlvgr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper18cf672v9n22v8jad8ee6vrjmeaw3arnzf7v0ws",
+    "moniker": "late",
+    "account_address": "celestia18cf672v9n22v8jad8ee6vrjmeaw3arnzvpwkck",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1g25xsxjmk9nxkld4sagxzegjla5x2szy93hrua",
+    "moniker": "Nova",
+    "account_address": "celestia1g25xsxjmk9nxkld4sagxzegjla5x2szyqw462m",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper127ywj6s2wsqmv5fcnldnfg4qr20dp3j0a43yr4",
+    "moniker": "\u201cGPvalidator\u201d",
+    "account_address": "celestia127ywj6s2wsqmv5fcnldnfg4qr20dp3j0c2na4n",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper127uh7e5usz8zvwwce57c9xcfukqdezrknype4c",
+    "moniker": "ziyy",
+    "account_address": "celestia127uh7e5usz8zvwwce57c9xcfukqdezrkkmrqr7",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1t2acdpnqsu7y8ml0jxkqc9cve6eul0kfrsh2q6",
+    "moniker": "metatarz",
+    "account_address": "celestia1t2acdpnqsu7y8ml0jxkqc9cve6eul0kfx04nku",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1d5z5jxwjcgn7v343paum0egjqqrzd8flvsykyh",
+    "moniker": "nishank-wallet",
+    "account_address": "celestia1d5z5jxwjcgn7v343paum0egjqqrzd8flf0x0j3",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1w0fjecqx3ksyqfxalxch97zxtelctg0n7yl35x",
+    "moniker": "testnetedge",
+    "account_address": "celestia1w0fjecqx3ksyqfxalxch97zxtelctg0nmmagzq",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1w509w6fthedahz9fqnz5l4frk65kve9ag5z6z9",
+    "moniker": "SN",
+    "account_address": "celestia1w509w6fthedahz9fqnz5l4frk65kve9adtqr5r",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1w7q7e3xh76qnxl43c8d7q47vy6daj7h79zn9dy",
+    "moniker": "Dikci",
+    "account_address": "celestia1w7q7e3xh76qnxl43c8d7q47vy6daj7h7qa3umz",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper10gxwhz2w65x82j9xakf6h2d04swmkm7qp56z2l",
+    "moniker": "Nocturnal",
+    "account_address": "celestia10gxwhz2w65x82j9xakf6h2d04swmkm7qytcmue",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1sz7v0m7g5u68xgqce2cvtys6ga8xvpvuqtjvyr",
+    "moniker": "Itachi",
+    "account_address": "celestia1sz7v0m7g5u68xgqce2cvtys6ga8xvpvu95s4j9",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1s5eazljem5kxlvvwejtxgal3mj3076pwjq4vj9",
+    "moniker": "zbigniew-test",
+    "account_address": "celestia1s5eazljem5kxlvvwejtxgal3mj3076pwhlh4yr",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper13c6zg50gny5358x3fmzlmyyqw4hpmn2mw02f4k",
+    "moniker": "snoopycdog",
+    "account_address": "celestia13c6zg50gny5358x3fmzlmyyqw4hpmn2mtsgsrs",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1j33pdvjdgyzas5kqj0rwwqxyrk2fsd3ptn5dwk",
+    "moniker": "fully",
+    "account_address": "celestia1j33pdvjdgyzas5kqj0rwwqxyrk2fsd3pwvk5cs",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1nqn92xafsr257j7atdpfz8hy88uwzsvyju800m",
+    "moniker": "SG-1",
+    "account_address": "celestia1nqn92xafsr257j7atdpfz8hy88uwzsvyhr9kea",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1n295j674m0y6dk98nzv4fc9z39rj5vj8cnxq05",
+    "moniker": "mammoth.guru",
+    "account_address": "celestia1n295j674m0y6dk98nzv4fc9z39rj5vj8avyeej",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1nna7k5lywn99cd63elcfqm6p8c5c4qcuuqws9l",
+    "moniker": "IcyCRO \ud83e\uddca",
+    "account_address": "celestia1nna7k5lywn99cd63elcfqm6p8c5c4qcuelvfne",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1n4qkmuwvnxlzdwwvcjy6n758rwqzvrg3xf48ap",
+    "moniker": "casper",
+    "account_address": "celestia1n4qkmuwvnxlzdwwvcjy6n758rwqzvrg3rkh7t8",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15fzyzguvxdtsr0fhqvawehpwkue73ukper7u3r",
+    "moniker": "ExaHash",
+    "account_address": "celestia15fzyzguvxdtsr0fhqvawehpwkue73ukpuuu989",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15vepp3yvknnzgx22ceeh9rlkedc24550k8gt00",
+    "moniker": "Altiplanic",
+    "account_address": "celestia15vepp3yvknnzgx22ceeh9rlkedc24550nc2jef",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15ju0cd8uexhpxvu6qlxw9gfu0zwmslf04fcqjw",
+    "moniker": "gain",
+    "account_address": "celestia15ju0cd8uexhpxvu6qlxw9gfu0zwmslf0sk6eyg",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper157v0p0370zzdp2xt6mla3v0d9czjp0sgrnnwf4",
+    "moniker": "SaLiap",
+    "account_address": "celestia157v0p0370zzdp2xt6mla3v0d9czjp0sgxv3hln",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper145funhpfws0z8wfgvgv7pj0ejez39rxhsw9scc",
+    "moniker": "Celestial - Run by StreamNode",
+    "account_address": "celestia145funhpfws0z8wfgvgv7pj0ejez39rxh438fw7",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1kz2j3mu42ck5vanq2sjuq0nnt79dngt84r7nh3",
+    "moniker": "cosmosrescue",
+    "account_address": "celestia1kz2j3mu42ck5vanq2sjuq0nnt79dngt8suu2ph",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1hq7373ufgzyzt3wp76hcdvf0fajhzd87uc8fl4",
+    "moniker": "ymikh",
+    "account_address": "celestia1hq7373ufgzyzt3wp76hcdvf0fajhzd87e89sfn",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1hppcgsemr3u7kvvqjjmjt9v07w4dqxprvrf2vd",
+    "moniker": "DoraFactory",
+    "account_address": "celestia1hppcgsemr3u7kvvqjjmjt9v07w4dqxprfutn6t",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1hpf9q9u4g0qmnl4qcumxcu0g8uqtmvg0nh0wda",
+    "moniker": "Informal Systems",
+    "account_address": "celestia1hpf9q9u4g0qmnl4qcumxcu0g8uqtmvg0kgdhmm",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1cxt88jkrvm23m284atfwl2ls3495czd8gvcfj6",
+    "moniker": "testophales",
+    "account_address": "celestia1cxt88jkrvm23m284atfwl2ls3495czd8dn6syu",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1c3l5wjs6dx2xuseg3cgwterz08jzpvx8rx9qxz",
+    "moniker": "Luganodes",
+    "account_address": "celestia1c3l5wjs6dx2xuseg3cgwterz08jzpvx8xe8esy",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ez0kgh3pu530szna6cejs8a5y6kjhq805qjw60",
+    "moniker": "CryptoPioneers DAO",
+    "account_address": "celestia1ez0kgh3pu530szna6cejs8a5y6kjhq803lshvf",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16gpfjhfel27e7e8da652mgxrjpfr7sksq5p5m0",
+    "moniker": "CelEdge",
+    "account_address": "celestia16gpfjhfel27e7e8da652mgxrjpfr7sks9trddf",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper16hcl7yn875v0up9vpggddxppsyg926gw76gg0t",
+    "moniker": "StakePool",
+    "account_address": "celestia16hcl7yn875v0up9vpggddxppsyg926gwm923ed",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1mnmhkmqm6uh7ypjhtxecx28t84due9kdlrcn6z",
+    "moniker": "amazing",
+    "account_address": "celestia1mnmhkmqm6uh7ypjhtxecx28t84due9kd6u62vy",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1apm6cashrj3eujrwzwyg3jz2nwqewvxw9v950u",
+    "moniker": "half",
+    "account_address": "celestia1apm6cashrj3eujrwzwyg3jz2nwqewvxwqn8de6",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper17qfn5npgxqcwtr7s00hugr4mhryv2yhy8k2fp8",
+    "moniker": "ValidatorVN",
+    "account_address": "celestia17qfn5npgxqcwtr7s00hugr4mhryv2yhyzfgshp",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper17zkzp4u7udk2a3q3h9dunt4uqergquyxn37npd",
+    "moniker": "EquinoxDao",
+    "account_address": "celestia17zkzp4u7udk2a3q3h9dunt4uqergquyxkwu2ht",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper17rwmxy5evqnu9yq2aqx9nr6zgul0tl2vuarmsa",
+    "moniker": "vrpx_celestest",
+    "account_address": "celestia17rwmxy5evqnu9yq2aqx9nr6zgul0tl2vezpzxm",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1l7v4pym04qsnzq38u80n5jrm7vxg6kscacm73j",
+    "moniker": "huanziqi",
+    "account_address": "celestia1l7v4pym04qsnzq38u80n5jrm7vxg6kscc8e885",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1g3mvpvczxpmk605rv8wlu58xurtfq5ajm3e73t",
+    "moniker": "LowFeeValidation",
+    "account_address": "celestia1g3mvpvczxpmk605rv8wlu58xurtfq5aj7wm88d",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper15ffxzm6e2slev3uzsr5gztrrxx3h73wlsd7m7k",
+    "moniker": "LowFeeValidation",
+    "account_address": "celestia15ffxzm6e2slev3uzsr5gztrrxx3h73wl4juzgs",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1kguywz5q9705f8nsrqyjfuzfrz4lwxfu0zpzca",
+    "moniker": "Twinstake",
+    "account_address": "celestia1kguywz5q9705f8nsrqyjfuzfrz4lwxfu2armwm",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1chcpjduvnu0t9404z3f3hd9zxf6ffre7hmhrkc",
+    "moniker": "HoodRun",
+    "account_address": "celestia1chcpjduvnu0t9404z3f3hd9zxf6ffre7jy46q7",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1ugjkpx5m06gt26jdq3gy4v0pfkh4tk38eyh89r",
+    "moniker": "mocha-4",
+    "account_address": "celestia1ugjkpx5m06gt26jdq3gy4v0pfkh4tk38um47n9",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1l4mcxvk8kaexaua5xtjfratk5ylsuf7dg864ve",
+    "moniker": "melea",
+    "account_address": "celestia1l4mcxvk8kaexaua5xtjfratk5ylsuf7ddccv6l",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper12zvzsymhr2za5lacnve2cyxl7xu8n6h4vpsmqa",
+    "moniker": "klein",
+    "account_address": "celestia12zvzsymhr2za5lacnve2cyxl7xu8n6h4f7jzkm",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1dg9dp8368t5r569u2fxhp6wau3uwtsy9xzw4sp",
+    "moniker": "Klein v1: Forrest",
+    "account_address": "celestia1dg9dp8368t5r569u2fxhp6wau3uwtsy9ravvx8",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1623ghfzzqm6k77sufm8329lddmrpxed5q9a24g",
+    "moniker": "gordepoks",
+    "account_address": "celestia1623ghfzzqm6k77sufm8329lddmrpxed596lnrw",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1z8audymg3ktdlzlap0v3a04wdvwe4e20utq7m4",
+    "moniker": "fible1",
+    "account_address": "celestia1z8audymg3ktdlzlap0v3a04wdvwe4e20e5z8dn",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper10paav5qvqvxn2ycqlrfj2ncpl5c43h74e0ane7",
+    "moniker": "Hello world",
+    "account_address": "celestia10paav5qvqvxn2ycqlrfj2ncpl5c43h74usl20c",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  },
+  {
+    "validator_address": "celestiavaloper1krntz9jelw9rgug4h7rmk96rjzmuxk6l909djn",
+    "moniker": "Hello world",
+    "account_address": "celestia1krntz9jelw9rgug4h7rmk96rjzmuxk6lqs85y4",
+    "voting_power_percent": "0.000",
+    "status": "UNBONDED"
+  }
+]
