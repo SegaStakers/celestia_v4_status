@@ -1,6 +1,6 @@
 # Celestia Validator Signal Report
 
-Last updated: **2025-06-30 15:56:41 UTC**
+Last updated: **2025-06-30 16:30:45 UTC**
 
 **Sum of Voting Power (BONDED+UNBONDING): 80.200%**
 
